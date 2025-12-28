@@ -1,0 +1,37 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.backup
+
+# Credentials and secrets
+creds_lab.txt
+*.pem
+*.key
+*.crt
+*.pfx
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# PowerShell
+*.ps1.bak
+
+# Environment variables
+.env
+.env.local
+
