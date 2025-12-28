@@ -5,6 +5,11 @@ Welcome to the **Azure 101 CTF Lab**! This repository provides a hands-on Captur
 
 ---
 
+# Architecture Diagram
+
+![LabAzure1](https://github.com/user-attachments/assets/96de8e16-0d09-48c7-9daa-2f088558e485)
+
+
 ## 🚩 Scenario Overview
 
 You are given a simulated Azure environment with:
