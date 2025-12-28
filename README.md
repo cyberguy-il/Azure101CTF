@@ -13,6 +13,7 @@
 </div>
 
 ---
+<img width="1918" height="1054" alt="2025-12-28_16-40-46" src="https://github.com/user-attachments/assets/c9e8e2b3-3ec7-4cc8-8f82-1e238b6ad1ad" />
 
 ## 📖 About
 
