@@ -1,5 +1,5 @@
 
-# Azure 101 CTF Lab: DemoFlow
+# Azure 101 CTF Lab: Privilege Esclation Via App Registation 
 
 Welcome to the **Azure 101 CTF Lab**! This repository provides a hands-on Capture The Flag (CTF) scenario for learning Azure Active Directory, Service Principals, RBAC, and secure storage access using Terraform and PowerShell.
 
